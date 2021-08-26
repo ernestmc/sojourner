@@ -1,0 +1,3 @@
+[submodule "controllers/sojourner/robot-sdk-cpp"]
+	path = controllers/sojourner/robot-sdk-cpp
+	url = https://github.com/inorbit-ai/robot-sdk-cpp.git
