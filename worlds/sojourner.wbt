@@ -41,7 +41,7 @@ DEF FLAG Solid {
           appearance PBRAppearance {
             baseColorMap ImageTexture {
               url [
-                "https://raw.githubusercontent.com/cyberbotics/webots/R2021b/projects/robots/nasa/worlds/textures/panel.jpg"
+                "inorbit_logo.png"
               ]
             }
             roughness 1
