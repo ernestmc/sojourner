@@ -1,0 +1,9 @@
+#! /bin/bash
+
+export WEBOTS_HOME="/usr/local/webots"
+
+pushd controllers >> /dev/null
+make
+popd >> /dev/null
+
+webots worlds/sojourner.wbt
