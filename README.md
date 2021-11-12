@@ -5,7 +5,7 @@ This is a simple simulation of NASA's Sojourner Mars rover. The rover starts mov
 
 The simulation runs on the [Webots](https://www.cyberbotics.com/) simulation engine.
 
-It is designed to work with [InOrbit](https://www.inorbit.ai/) so you will need to install the agent and have an active account. It uses the [C++ SDK](https://github.com/inorbit-ai/robot-sdk-cpp).
+It is designed to work with [InOrbit](https://www.inorbit.ai/) so you will need to install the agent and have an active account. It uses the [C++ non-ros agent](https://developer.inorbit.ai/docs?hsCtaTracking=79b60c18-3301-4d2f-b0c0-e37b167dfeeb%7Cf312850b-5580-4c32-9c38-89c8935d4aff#non-ros-agent-installation).
 
 ## Data produced by the simulation
 
